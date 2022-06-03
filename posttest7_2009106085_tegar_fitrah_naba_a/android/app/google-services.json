@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774626329692",
+    "project_id": "crud-posttest-7",
+    "storage_bucket": "crud-posttest-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774626329692:android:78e70f39d946dcc8a11299",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_2009106085_tegar_fitrah_naba_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774626329692-irosm17l1biasm1j62i9up879cg4li0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXXsTwRjAnX7tIelIuhB53XIb6bqWkiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774626329692-irosm17l1biasm1j62i9up879cg4li0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
